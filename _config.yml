@@ -2,11 +2,11 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Anna Mesimeri'
+description: 'Socialize me'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'photo.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
