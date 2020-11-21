@@ -66,7 +66,7 @@ social-links:
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+    url-pattern: twitter.com/__MidiPetit__
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
@@ -81,7 +81,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: instagram.com/__thecountessann__
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
